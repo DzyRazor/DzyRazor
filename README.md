@@ -8,8 +8,8 @@ Me-chamo Leonardo tenho 29 anos, sou bombeiro civil, atualmente trabalho com seg
 Casado 💏, tenho 2 lindos filhos... 
 🤴Luan com 11 anos | 👸 Mayohana de 6 anos.
 
-Desde muito novo me envolvo com a area da computação, estou focado nos estudos e me dedicando ha area da programação. 😁
-sou evangelico⛪, curto passar meu tempo com minha familia👨‍👩‍👧‍👦.
+Desde muito novo me envolvo com a area da computação, estou focado nos estudos e me dedicando há área da programação. 😁
+sou evangélico⛪, curto passar meu tempo com minha família👨‍👩‍👧‍👦
 
 ---------------------------
 
