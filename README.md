@@ -31,7 +31,6 @@ Meu objetivo é conquistar minha primeira oportunidade de **estágio em Cybersec
 
 Minha trilha de estudos atual:
 
-```text
 Cybersecurity
       ↓
 Redes
@@ -47,7 +46,23 @@ Laboratórios de Cybersecurity
 Projetos práticos
 
 ---------------------------
+Durante meus estudos estou aprendendo conceitos relacionados a:
 
+CIA Triad
+Malware
+Vulnerabilidades
+Exploits
+Phishing
+Social Engineering
+DoS / DDoS
+Botnets
+Logs
+IDS / IPS
+SIEM
+DLP
+Redes e protocolos
+Segurança de sistemas
+Segurança de servidores
 ---------------------------
 
 ## 📚 Learning
