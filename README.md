@@ -1,15 +1,50 @@
-## Olá 👋
+# 👋 Olá, eu sou DzyRazor
 
-## Resumo BIO
+## 🛡️ Estudante de Cybersecurity | 🌐 Redes | 🐧 Linux | 🐍 Python
 
-Me-chamo Leonardo tenho 29 anos, sou bombeiro civil, atualmente trabalho com segurança contra incêndio.
-### Sou do Rio de Janeiro ⛱
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente estou direcionando minha carreira para a área de **Cybersecurity**.
 
-Casado 💏, tenho 2 lindos filhos... 
-🤴Luan com 11 anos | 👸 Mayohana de 6 anos.
+Estou construindo minha base através de estudos, laboratórios e projetos práticos, buscando transformar conhecimento teórico em experiência prática.
 
-Desde muito novo me envolvo com a area da computação, estou focado nos estudos e me dedicando há área da programação. 😁
-sou evangélico⛪, curto passar meu tempo com minha família👨‍👩‍👧‍👦
+---
+
+## 🛡️ Sobre mim
+
+Atualmente estou focado no desenvolvimento de conhecimentos em:
+
+- 🛡️ Cybersecurity
+- 🌐 Redes de computadores
+- 🐧 Linux e servidores
+- 🐍 Python
+- 🔧 Git e GitHub
+- 🔎 Análise de logs
+- 🔐 Segurança da informação
+- 💻 Programação
+
+Meu objetivo é conquistar minha primeira oportunidade de **estágio em Cybersecurity / Segurança da Informação**, continuando minha evolução através de projetos práticos e experiência profissional.
+
+---
+
+## 📚 Atualmente estudando
+
+### 🎓 Cisco Networking Academy — Junior Cybersecurity Analyst
+
+Minha trilha de estudos atual:
+
+```text
+Cybersecurity
+      ↓
+Redes
+      ↓
+Linux / Servidores
+      ↓
+Python
+      ↓
+Git / GitHub
+      ↓
+Laboratórios de Cybersecurity
+      ↓
+Projetos práticos
 
 ---------------------------
 
