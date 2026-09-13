@@ -48,21 +48,21 @@ Projetos práticos
 ---------------------------
 Durante meus estudos estou aprendendo conceitos relacionados a:
 
-CIA Triad
-Malware
-Vulnerabilidades
-Exploits
-Phishing
-Social Engineering
-DoS / DDoS
-Botnets
-Logs
-IDS / IPS
-SIEM
-DLP
-Redes e protocolos
-Segurança de sistemas
-Segurança de servidores
+- CIA Triad
+- Malware
+- Vulnerabilidades
+- Exploits
+- Phishing
+- Social Engineering
+- DoS / DDoS
+- Botnets
+- Logs
+- IDS / IPS
+- SIEM
+- DLP
+- Redes e protocolos
+- Segurança de sistemas
+- Segurança de servidores
 ---------------------------
 
 ## 📚 Learning
