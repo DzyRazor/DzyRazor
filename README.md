@@ -336,6 +336,7 @@ A ideia é utilizar os projetos para demonstrar aquilo que estou realmente estud
 # 📊 GitHub Stats
 
 ![DzyRazor GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzyRazor&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DzyRazor&layout=compact&theme=dark)
 
