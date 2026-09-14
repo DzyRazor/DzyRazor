@@ -345,7 +345,7 @@ A ideia é utilizar os projetos para demonstrar aquilo que estou realmente estud
 
 💼 **LinkedIn:** COLOQUE_SEU_LINKEDIN_AQUI
 
-📧 **E-mail:** COLOQUE_SEU_EMAIL_AQUI
+📧 **E-mail:** leoanrdosantos2018rj@gmail.com
 
 ---
 
