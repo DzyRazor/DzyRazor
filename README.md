@@ -343,9 +343,9 @@ A ideia é utilizar os projetos para demonstrar aquilo que estou realmente estud
 
 # 📫 Contato
 
-💼 **LinkedIn:** COLOQUE_SEU_LINKEDIN_AQUI
+💼 **LinkedIn:** https://www.linkedin.com/in/leonardo2020santos/
 
-📧 **E-mail:** leoanrdosantos2018rj@gmail.com
+📧 **E-mail:** leonardosantos2018rj@gmail.com
 
 ---
 
