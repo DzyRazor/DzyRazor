@@ -224,6 +224,14 @@ Projeto em Python para análise de arquivos de log e identificação de possíve
 
 ---
 
+## 🧾 Sistema de Controle de Notas
+
+Projeto educacional responsivo em HTML, CSS e JavaScript para cadastrar alunos por turma, registrar notas e classificar os resultados. Os dados são salvos no `localStorage` do navegador.
+
+[Acessar repositório](https://github.com/DzyRazor/sistema-controle-notas)
+
+---
+
 ## 🌐 Network Security Lab
 
 **📋 Planejado**
